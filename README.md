@@ -4,7 +4,7 @@ This project implements a Long Short-Term Memory (LSTM) network from its fundame
 ## Project Overview
 The primary goal of this project is to deconstruct the LSTM architecture and implement its core gating mechanisms (forget, input, and output gates) manually. By using PyTorch Lightning, the project also demonstrates best practices for organizing deep learning code, separating the model's logic from the training boilerplate.
 
-This implementation showcases a deep, first-principles understanding of:
+This implementation shows a first-principles understanding of:
 
 * LSTM Architecture: The internal workings of the cell state and the three primary gates.
 
